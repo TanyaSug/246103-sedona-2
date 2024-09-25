@@ -1,9 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Tatiana Suglobova](https://up.htmlacademy.ru/htmlcss-individual/2/user/246103).
-* Наставник: `Неизвестно`.
-
----
+* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Сайт: [Мой проект Седона](https://tanyasug.github.io/246103-sedona-2/).
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
